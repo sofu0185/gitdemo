@@ -7,3 +7,6 @@ Indkøbsliste
 	sodavand
 	chips
 	matadormix
+
+	ananas
+	kiwi
