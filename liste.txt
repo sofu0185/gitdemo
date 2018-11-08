@@ -1,2 +1,5 @@
 Indkøbsliste
-	test
+	kaffe
+	brød
+	kaffe fløde
+	sukker
