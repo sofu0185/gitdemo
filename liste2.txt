@@ -1,0 +1,5 @@
+Indkøbsliste
+	kaffe
+	brød
+	kaffe fløde
+	sukker
