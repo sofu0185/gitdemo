@@ -1,4 +1,5 @@
 Indkøbsliste
+	ost
 	kaffe
 	brød
 	kaffe fløde
