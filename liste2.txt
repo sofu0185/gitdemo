@@ -10,3 +10,4 @@ Indkøbsliste
 
 	ananas
 	kiwi
+	bananer
