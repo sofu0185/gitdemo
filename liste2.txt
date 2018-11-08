@@ -3,3 +3,7 @@ Indkøbsliste
 	brød
 	kaffe fløde
 	sukker
+
+	sodavand
+	chips
+	matadormix
