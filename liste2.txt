@@ -7,3 +7,5 @@ Indkøbsliste
 	sodavand
 	chips
 	matadormix
+
+	bananer
