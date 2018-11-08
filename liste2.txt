@@ -11,3 +11,5 @@ Indkøbsliste
 	ananas
 	kiwi
 	bananer
+
+	tomater
